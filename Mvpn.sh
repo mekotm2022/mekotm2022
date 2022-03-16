@@ -4,14 +4,14 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"$
 
-############################## Скрипты #####################################
+############################ MEKO TABILservice #####################################
 clear
 
 #=================================================
 #   System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+
-#   Description: Install the ShadowsocksR mudbjson server
+#   Description: Install the ShadowsocksR
 #   Version: 1.0.26
-#   Author: Lunatik
+#   Author: MEKO TABILservice
 #=================================================
 
 sh_ver="3.0"
